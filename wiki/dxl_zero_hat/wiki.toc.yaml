@@ -1,0 +1,7 @@
+---
+- label: Overview
+  data: wiki/dxl_zero_hat/overview.md
+- label: Ratings
+  data: wiki/dxl_zero_hat/ratings.md
+- label: Usage
+  data: wiki/dxl_zero_hat/usage.md

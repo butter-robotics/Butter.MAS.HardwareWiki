@@ -1,5 +1,5 @@
 ---
 - label: DXL Zero Hat
-  data: wiki/dxl_zero_hat/wiki.toc.yaml
+  data: wiki/dxl_zero_hat.toc.yaml
 - label: DXL Pro Hat
-  data: wiki/dxl_pro_hat/wiki.toc.yaml
+  data: wiki/dxl_pro_hat.toc.yaml

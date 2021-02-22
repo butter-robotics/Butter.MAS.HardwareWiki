@@ -1,7 +1,7 @@
 ---
 - label: Overview
   data: wiki/dxl_pro_hat/overview.md
-- label: Ratings
-  data: wiki/dxl_pro_hat/ratings.md
+- label: Specifications
+  data: wiki/dxl_pro_hat/specifications.md
 - label: Usage
   data: wiki/dxl_pro_hat/usage.md

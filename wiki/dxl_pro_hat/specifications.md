@@ -4,7 +4,7 @@ Processor: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 Communication: &nbsp;&nbsp;&nbsp;&nbsp; 1 x RS485, 1 x TTL (JST / Molex)
 
-Auxiliary: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 x Fan header, 1 x Reset header (JST / Molex)
+Auxiliary: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 x Fan header, 1 x Reset header (JST / Molex)
 
 Input power:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12V-24V DC via Barrel-Jack connector (minimum 3A)
 

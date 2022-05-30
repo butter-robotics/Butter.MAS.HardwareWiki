@@ -7,6 +7,7 @@ projects:
     path: wiki/dxl_zero_hat
     versions:
       latest:
+        symlink: v1
         toc: v1/revision.toc.yaml
         release: stable
         supported: true
@@ -19,6 +20,7 @@ projects:
     path: wiki/dxl_pro_hat
     versions:
       latest:
+        symlink: v1
         toc: v1/revision.toc.yaml
         release: stable
         supported: true

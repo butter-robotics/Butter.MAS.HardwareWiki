@@ -1,5 +1,29 @@
 ---
-- label: DXL Zero Hat
-  data: wiki/dxl_zero_hat.toc.yaml
-- label: DXL Pro Hat
-  data: wiki/dxl_pro_hat.toc.yaml
+# Release Types: stable | rc | beta | alpha
+multipart: true
+projects:
+  dxl_zero_hat:
+    label: DXL Zero Hat
+    path: wiki/dxl_zero_hat
+    versions:
+      latest:
+        toc: v1/revision.toc.yaml
+        release: stable
+        supported: true
+      v1:
+        toc: v1/revision.toc.yaml
+        release: stable
+        supported: true
+  dxl_pro_hat:
+    label: DXL Pro Hat
+    path: wiki/dxl_pro_hat
+    versions:
+      latest:
+        toc: v1/revision.toc.yaml
+        release: stable
+        supported: true
+      v1:
+        toc: v1/revision.toc.yaml
+        release: stable
+        supported: true
+...
